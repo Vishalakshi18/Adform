@@ -22,7 +22,8 @@
 	<ItemGroup>
 	  <Folder Include="Controllers\" />
 	  <Folder Include="Core\" />
-	  <Folder Include="Persistence\" />
+	  <Folder Include="Persistence\Migrations\" />
+	  <Folder Include="Persistence\Data\" />
 	</ItemGroup>
 
 </Project>

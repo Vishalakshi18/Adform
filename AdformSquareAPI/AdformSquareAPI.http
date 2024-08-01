@@ -1,0 +1,6 @@
+@AdformSquareAPI_HostAddress = http://localhost:5197
+
+GET {{AdformSquareAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

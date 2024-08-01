@@ -1,13 +1,6 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using AdformSquareAPI.Persistence.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AdformSquareAPI.Core.Model;
 using AdformSquareAPI.Persitence;
 using Microsoft.EntityFrameworkCore;
-using AdformSquareAPI.Core.Model;
 
 namespace AdformSquareAPI.Persistence.Repositories.Tests
 {
